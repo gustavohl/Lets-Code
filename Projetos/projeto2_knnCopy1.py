@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[85]:
+# In[85]:a
 
 
 class Knn_classificacao:
